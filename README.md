@@ -1,5 +1,9 @@
 # Stock Notify
 
+![GitHub](https://img.shields.io/github/license/shayannasir/stock-notify) 
+![GitHub release (release name instead of tag name)](https://img.shields.io/github/v/release/shayannasir/stock-notify?include_prereleases&sort=date)
+![GitHub commit checks state](https://img.shields.io/github/checks-status/shayannasir/stock-notify/9fa5398fd5088f70c06022adada72824bff3a9f3?color=orange&logo=python)
+
 A small serverless python script that crawls a website (keychron.in) looking for a particular product (k2 v2) with some specific variation (Block switches and white backlight). Once this is found, it scrapes the details of the products (availability and price) and sends it via a telegram bot to a specific user.
 
 
